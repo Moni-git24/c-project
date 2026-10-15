@@ -1,12 +1,12 @@
 #include <stdio.h>
 
-void big3(void);
-void fact(void);
+void biggest3(void);
+void factorial(void);
 
 int main(void)
 {
-    big3();
-    fact();
+    biggest3();
+    factorial();
 
     return 0;
 }
